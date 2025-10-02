@@ -469,7 +469,7 @@ ai-dbug/
 
 ## 🤝 Contributing
 
-We love contributions! Here's how you can help:
+love contributions! Here's how you can help:
 
 ### Add New Error Explanations
 
