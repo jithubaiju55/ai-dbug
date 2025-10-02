@@ -474,7 +474,7 @@ ai-dbug/
 
 ## 🤝 Contributing
 
-We love contributions! Here's how you can help:
+ love contributions! Here's how you can help:
 
 ### Add New Error Explanations
 
@@ -619,10 +619,9 @@ If you use AI-DBUG in research or education, please cite:
 
 <div align="center">
 
-**Made with ❤️ by the AI-DBUG community**
 
-[Website](https://ai-dbug.com) •
-[Documentation](https://docs.ai-dbug.com) •
+
+
 [PyPI](https://pypi.org/project/ai-dbug/) •
 [GitHub](https://github.com/jithubaiju55/ai-dbug)
 
