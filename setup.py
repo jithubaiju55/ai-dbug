@@ -9,16 +9,16 @@ with open(os.path.join(this_directory, 'README.md'), encoding='utf-8') as f:
 setup(
     name="ai-dbug",
     version="0.1.0",
-    author="Your Name",
-    author_email="your.email@example.com",
+    author="Jithu Baiju",
+    author_email="jithubaiju124@gmail.com",
     description="AI-powered Python debugger that explains errors in plain English",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/ai-dbug",
+    url="https://github.com/jithubaiju55/ai-dbug",
     project_urls={
-        "Bug Tracker": "https://github.com/yourusername/ai-dbug/issues",
-        "Documentation": "https://github.com/yourusername/ai-dbug#readme",
-        "Source Code": "https://github.com/yourusername/ai-dbug",
+        "Bug Tracker": "https://github.com/jithubaiju55/ai-dbug/issues",
+        "Documentation": "https://github.com/jithubaiju55/ai-dbug#readme",
+        "Source Code": "https://github.com/jithubaiju55/ai-dbug",
     },
     packages=find_packages(),
     classifiers=[

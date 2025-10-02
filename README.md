@@ -1,10 +1,5 @@
 # 🐛 AI-DBUG
 
-[![PyPI version](https://badge.fury.io/py/ai-dbug.svg)](https://badge.fury.io/py/ai-dbug)
-[![Python Versions](https://img.shields.io/pypi/pyversions/ai-dbug.svg)](https://pypi.org/project/ai-dbug/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Downloads](https://pepy.tech/badge/ai-dbug)](https://pepy.tech/project/ai-dbug)
-
 **An AI-powered Python debugger that explains errors in plain English with suggested fixes.**
 
 Stop wasting time deciphering cryptic error messages! AI-DBUG translates Python errors into clear, understandable explanations with practical solutions.
@@ -518,8 +513,7 @@ MIT License - see [LICENSE](LICENSE) file for details.
 ## 📞 Support & Community
 
 - 🐛 **Bug Reports:** [GitHub Issues](https://github.com/jithubaiju55/ai-dbug/issues)
-- 💬 **Discussions:** [GitHub Discussions](https://github.com/jithubaiju55/ai-dbug/discussions)
-- 📧 **Email:** support@ai-dbug.com
+- 📧 **Email:** ithubaiju124@gmail.com
 - 🌟 **Star us:** If AI-DBUG helped you, give us a star!
 
 ## 🗺️ Roadmap
@@ -619,11 +613,6 @@ If you use AI-DBUG in research or education, please cite:
 
 <div align="center">
 
-**Made with ❤️ by the AI-DBUG community**
-
-[Website](https://ai-dbug.com) •
-[Documentation](https://docs.ai-dbug.com) •
-[PyPI](https://pypi.org/project/ai-dbug/) •
 [GitHub](https://github.com/jithubaiju55/ai-dbug)
 
 ⭐ Star us on GitHub — it motivates us a lot!
