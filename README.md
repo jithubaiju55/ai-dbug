@@ -498,7 +498,7 @@ ERROR_KNOWLEDGE_BASE = {
 
 ### Report Issues
 
-Found a bug or have a suggestion? [Open an issue](https://github.com/yourusername/ai-dbug/issues)
+Found a bug or have a suggestion? [Open an issue](https://github.com/jithubaiju55/ai-dbug/issues)
 
 ### Improve Documentation
 
@@ -517,8 +517,8 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ## 📞 Support & Community
 
-- 🐛 **Bug Reports:** [GitHub Issues](https://github.com/yourusername/ai-dbug/issues)
-- 💬 **Discussions:** [GitHub Discussions](https://github.com/yourusername/ai-dbug/discussions)
+- 🐛 **Bug Reports:** [GitHub Issues](https://github.com/jithubaiju55/ai-dbug/issues)
+- 💬 **Discussions:** [GitHub Discussions](https://github.com/jithubaiju55/ai-dbug/discussions)
 - 📧 **Email:** support@ai-dbug.com
 - 🌟 **Star us:** If AI-DBUG helped you, give us a star!
 
@@ -611,7 +611,7 @@ If you use AI-DBUG in research or education, please cite:
   title = {AI-DBUG: AI-Powered Python Debugger},
   author = {AI-DBUG Contributors},
   year = {2024},
-  url = {https://github.com/yourusername/ai-dbug}
+  url = {https://github.com/jithubaiju55/ai-dbug}
 }
 ```
 
@@ -624,7 +624,7 @@ If you use AI-DBUG in research or education, please cite:
 [Website](https://ai-dbug.com) •
 [Documentation](https://docs.ai-dbug.com) •
 [PyPI](https://pypi.org/project/ai-dbug/) •
-[GitHub](https://github.com/yourusername/ai-dbug)
+[GitHub](https://github.com/jithubaiju55/ai-dbug)
 
 ⭐ Star us on GitHub — it motivates us a lot!
 
